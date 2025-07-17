@@ -1,18 +1,17 @@
-# bean-parking
+# Bean parking
 
 # Introduction
 
 [https://github.com/vietphan1995/bean-parking](https://github.com/vietphan1995/bean-parking)
 
-A house that people can live in emergency situation. Emergency situation can be listed as storm, volcano, flood, rain, fired as natural disaster on land, sand, mountain, beach, ocean, or in attack by animal …
+In the age of fast technology growing, exchange old to new smart device, specific smart phone/tablet lifecycle is shorter, for any customer experience purpose, bean parking is one application/software on smart device that use computer vision to manage vehicles for your organization, parking.
 
-This house has architect shape like warning float on beach, circle shape, triangle ridge, and long bottom column nail connect with this house below water face, i think this house can keep balance when it meets big waves, winds, volcanos, in any temperature condition.
+Bean parking application focus on old mobile devices that has operating system, front camera, back camera. These things will help bean parking detect vehicle license/identity when vehicle go in/out parking s/lot automatically.
 
-This house can save people in a time range when they have accident, incident in any terrain.
+Bean parking application help design and charge s/lot amount, manage violate vehicle/people, help manage energy will be charged for that vehicle, special in the age of electric vehicle, base on vehicle license/identity.
 
-This house can act as lighthouse in beach. This lighthouse act as station send and receive signal from all vehicles, specific devices. A network of jeju house can transfer signal communication in any terrain, it can help save and reduce accidents, incidents of ships, planes on ocean also complexity terrains.
+In climate change job, bean parking will help reduce energy/power in maintain parking job like manage light, roof, reduce bottle neck for parking, organize robotaxi parking, modern z-axis parking, track fuel/emission, reduce order bill parking paper.
 
-In extend, this house can help maintain ocean life in observe animal method, clean waste trash in the ocean, history, accident, incident research.
 
 ### Notes:
-https://six-zinc-ad4.notion.site/jeju-house-1b25e832d6ee8066b8d5ca6736e09076
+https://six-zinc-ad4.notion.site/Bean-parking-1b25e832d6ee803b9877caec7681cbf6
