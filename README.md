@@ -10,8 +10,9 @@ Bean parking application focus on old mobile devices that has operating system, 
 
 Bean parking application help design and charge s/lot amount, manage violate vehicle/people, help manage energy will be charged for that vehicle, special in the age of electric vehicle, base on vehicle license/identity.
 
-In climate change job, bean parking will help reduce energy/power in maintain parking job like manage light, roof, reduce bottle neck for parking, organize robotaxi parking, modern z-axis parking, track fuel/emission, reduce order bill parking paper.
+Bean parking will help reduce energy/power in maintain parking job like manage light, roof, reduce bottle neck for parking, organize robotaxi parking, modern z-axis parking, track fuel/emission, reduce order bill parking paper, help solve and prevent climate change.
 
+![image.png](image.png)
 
 ### Notes:
 https://six-zinc-ad4.notion.site/Bean-parking-1b25e832d6ee803b9877caec7681cbf6
