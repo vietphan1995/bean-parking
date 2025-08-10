@@ -17,4 +17,4 @@ Bean parking will help reduce energy/power in maintain parking job like manage l
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes:
-https://six-zinc-ad4.notion.site/Bean-parking-1b25e832d6ee803b9877caec7681cbf6
+https://phantrungviet.notion.site/Bean-parking-1b25e832d6ee803b9877caec7681cbf6
